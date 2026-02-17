@@ -3,13 +3,14 @@
 Developed by Pattharawit Chomphupan  
 Student Code: 680610702  
 
-C++ console-based student grade management system using OOP and file handling. The system focuses on clean design, data integrity, and practical academic use cases.
+## Features
+====== Student Management System ======
+1. Add Student
+2. Show All Students
+3. Show Top 3 GPA
+4. Show Class Average GPA
+5. Save to File
+6. Load from File
+0. Exit
+======================================
 
-## 🚀 Features
-- Add, remove, and manage student records
-- Enter and update course grades
-- Credit-based weighted GPA calculation
-- Automatic student ranking by GPA
-- Class-level statistical analysis
-- Transcript generation
-- Persistent data storage with file I/O (save/load)
