@@ -5,6 +5,7 @@ Student Code: 680610702
 
 ## Features
 ====== Student Management System ======
+
 1. Add Student
 2. Show All Students
 3. Show Top 3 GPA
@@ -12,5 +13,6 @@ Student Code: 680610702
 5. Save to File
 6. Load from File
 0. Exit
+
 ======================================
 
