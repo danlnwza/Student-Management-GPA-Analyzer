@@ -1,6 +1,5 @@
 #include <iostream>
 #include "StudentManager.h"
-//
 using namespace std;
 
 int main() {
