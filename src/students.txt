@@ -17,13 +17,14 @@ No   ID        Name                GPA
 8    008       song ji wo          3.23      
 9    009       woody break         2.78      
 10   010       jung kook           4.00      
+11   011       gum bi              2.65      
 ----------------------------------------
 
 ------------ Class Statistics ------------
-Arithmetic Mean      = 3.21
-Standard Deviation   = 0.63
-Geometric Mean       = 3.14
-Harmonic Mean        = 3.06
+Arithmetic Mean      = 3.16
+Standard Deviation   = 0.62
+Geometric Mean       = 3.09
+Harmonic Mean        = 3.02
 Max GPA              = 4.00
 Min GPA              = 1.98
 -------------------------------------------
