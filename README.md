@@ -62,7 +62,7 @@ g++ main.cpp student.cpp studentmanager.cpp -o run
 📋 Input Validation
 
 - ID   — Numbers only, no duplicates allowed
-- 
+  
 - Name — Letters and spaces only, no numbers, cannot be empty
-- 
+  
 - GPA  — Must be between 0.00 and 4.00
