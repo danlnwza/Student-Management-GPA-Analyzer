@@ -38,10 +38,15 @@ Select Menu (0-8):___
 🧠 Concepts Used
 
 -Object-Oriented Programming (Encapsulation, Constructor Overloading)
+
 -STL Vector & Algorithm (sort with Lambda Function)
+
 -File I/O (fstream)
+
 -Input Validation (cin.fail, getline)
+
 -String ID support (e.g. 001, 002)
+
 -Statistical calculation (cmath)
 
 
