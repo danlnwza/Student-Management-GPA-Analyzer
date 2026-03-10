@@ -55,9 +55,10 @@ while(true){
 
     if(id.empty() || !isAllDigit){
         cout<<"\nInvalid ID! Please enter numbers only.\n";
-    }else break;
+        continue;
+    }
 
-/*
+
 //เช็ค id ซํ้า
 bool duplicate = false; //กําหนดให้ไม่มีตัวซั้าก่อน
 for(int j = 0; j < students.size(); j++){
@@ -70,7 +71,7 @@ for(int j = 0; j < students.size(); j++){
 if(duplicate){
     cout<<"\nID "<<id<<" already exists! Please enter another ID.\n";
 }else break; //ผ่านได้เมื่อไม่ซ้ำและเป็นเลขถูกต้อง
-*/
+
 
 }
 
@@ -90,7 +91,6 @@ while(true) {
         //ตรวจสอบว่า name มีเลขปนมั้ย
         bool hasdigit = false;//กําหนดค่าเริ่มต้น
         //if(hasdigit) cin.ignore(1000,'\n');//ignore เฉพาะตอนที่ name ผิดเท่านั้น
-
 
         for(char c : name){ //char ในตําแหน่ง name ทุกตัว
             if(isdigit(c)){//เช็คว่าใช่ตัวเลขมั้ย
