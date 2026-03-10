@@ -30,8 +30,11 @@ Select Menu (0-8):___
 🛠️ Built With
 
 -Language : C++
+
 -Compiler : TDM-GCC 10.3.0 (MinGW-w64)
+
 -IDE : Visual Studio Code
+
 -Standard : C++11 or later
 
 
@@ -51,11 +54,15 @@ Select Menu (0-8):___
 
 
 🚀 How to Run
-bash g++ main.cpp student.cpp studentmanager.cpp -o run
+
+g++ main.cpp student.cpp studentmanager.cpp -o run
+
 ./run
 
 📋 Input Validation
 
-ID — Numbers only, no duplicates allowed
-Name — Letters and spaces only, no numbers
-GPA — Must be between 0.00 and 4.00
+- ID   — Numbers only, no duplicates allowed
+- 
+- Name — Letters and spaces only, no numbers, cannot be empty
+- 
+- GPA  — Must be between 0.00 and 4.00
