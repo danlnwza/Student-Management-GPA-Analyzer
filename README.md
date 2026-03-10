@@ -3,12 +3,14 @@
 Developed by Pattharawit Chomphupan  
 Student Code: 680610702  
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+```
 ├── main.cpp            # Program entry point & menu control
 ├── student.h           # Student class declaration (Blueprint)
 ├── student.cpp         # Student class implementation
 ├── studentmanager.h    # StudentManager class declaration
 └── studentmanager.cpp  # StudentManager class implementation
+```
 
 ✨ Features
 ========================================
