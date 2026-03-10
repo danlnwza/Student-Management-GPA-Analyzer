@@ -1,3 +1,30 @@
-65001,?somchi,3.45
-65002,suda,3.9
-65003,anna,2.75
+
+========================================
+
+              Student Data
+
+========================================
+
+No   ID        Name                GPA       
+----------------------------------------
+1    001       somchi ju           3.66      
+2    002       grim rip            2.98      
+3    003       yuki saka           3.55      
+4    004       fiji chung          2.45      
+5    005       ruby mattiw         3.44      
+6    006       jony tatum          1.98      
+7    007       ritowneriz          4.00      
+8    008       song ji wo          3.23      
+9    009       woody break         2.78      
+10   010       jung kook           4.00      
+----------------------------------------
+
+------------ Class Statistics ------------
+Arithmetic Mean      = 3.21
+Standard Deviation   = 0.63
+Geometric Mean       = 3.14
+Harmonic Mean        = 3.06
+Max GPA              = 4.00
+Min GPA              = 1.98
+-------------------------------------------
+
