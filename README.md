@@ -1,5 +1,8 @@
 📚 Student Management System
 
+Developed by Pattharawit Chomphupan  
+Student Code: 680610702  
+
 🗂️ Project Structure
 ├── main.cpp            # Program entry point & menu control
 ├── student.h           # Student class declaration (Blueprint)
