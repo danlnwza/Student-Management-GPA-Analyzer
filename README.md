@@ -1,7 +1,7 @@
-📚 Student Management System
+# 📚 Student Management System
+> Developed by **Pattharawit Chomphupan** | Student Code: `680610702`
 
-Developed by Pattharawit Chomphupan  
-Student Code: 680610702  
+---
 
 ## 🗂️ Project Structure
 ```
@@ -12,11 +12,13 @@ Student Code: 680610702
 └── studentmanager.cpp  # StudentManager class implementation
 ```
 
-✨ Features
+---
+
+## ✨ Features
+```
 ========================================
         STUDENT MANAGEMENT SYSTEM
 ========================================
-
 1. Add Students
 2. Show All Students
 3. Delete Students
@@ -25,46 +27,46 @@ Student Code: 680610702
 6. Search Student by ID
 7. Save to File
 8. Load from File
+0. Exit
+Select Menu (0-8): ___
+```
 
-Select Menu (0-8):___
+---
 
+## 🛠️ Built With
 
-🛠️ Built With
+| | |
+|---|---|
+| **Language** | C++ |
+| **Compiler** | TDM-GCC 10.3.0 (MinGW-w64) |
+| **IDE** | Visual Studio Code |
+| **Standard** | C++11 or later |
 
--Language : C++
+---
 
--Compiler : TDM-GCC 10.3.0 (MinGW-w64)
+## 🧠 Concepts Used
 
--IDE : Visual Studio Code
+- 🔷 Object-Oriented Programming (Encapsulation, Constructor Overloading)
+- 🔷 STL Vector & Algorithm (sort with Lambda Function)
+- 🔷 File I/O (fstream)
+- 🔷 Input Validation (cin.fail, getline)
+- 🔷 String ID support (e.g. `001`, `002`)
+- 🔷 Statistical calculation (cmath)
 
--Standard : C++11 or later
+---
 
-
-🧠 Concepts Used
-
--Object-Oriented Programming (Encapsulation, Constructor Overloading)
-
--STL Vector & Algorithm (sort with Lambda Function)
-
--File I/O (fstream)
-
--Input Validation (cin.fail, getline)
-
--String ID support (e.g. 001, 002)
-
--Statistical calculation (cmath)
-
-
-🚀 How to Run
-
+## 🚀 How to Run
+```bash
 g++ main.cpp student.cpp studentmanager.cpp -o run
-
 ./run
+```
 
-📋 Input Validation
+---
 
-- ID   — Numbers only, no duplicates allowed
-  
-- Name — Letters and spaces only, no numbers, cannot be empty
-  
-- GPA  — Must be between 0.00 and 4.00
+## 📋 Input Validation
+
+| Field | Rule |
+|---|---|
+| **ID** | Numbers only, no duplicates allowed |
+| **Name** | Letters and spaces only, no numbers, cannot be empty |
+| **GPA** | Must be between `0.00` and `4.00` |
